@@ -86,10 +86,12 @@ const EmptyState: React.FC<EmptyStateProps> = ({ onChatOpen, hasInteracted }) =>
           className="relative"
         >
           <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600 leading-tight tracking-tight">
-            ADHIKARI AI
+       OUTFITS POWERED BY AI
           </h1>
           <p className="mt-4 text-gray-600 text-lg max-w-2xl mx-auto">
-            Fashion powered by AI — inspired by travel, music, anime, and moments that define you.
+          
+            Effortlessly Generated Outfits: Seamlessly crafting outfits tailored to your style from travel, music, anime, and meaningful moments, featuring an array of top brands and a diverse range of leading brands
+
           </p>
         </motion.div>
 
